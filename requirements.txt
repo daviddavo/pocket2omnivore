@@ -1,0 +1,5 @@
+ipywidgets
+beautifulsoup4
+pandas
+gql[all]
+jupyter_contrib_nbextensions
