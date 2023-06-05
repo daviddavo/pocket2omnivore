@@ -1,6 +1,8 @@
 # other files
 ril_export.html
 
+*.db*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
