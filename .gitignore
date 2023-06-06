@@ -3,6 +3,10 @@ ril_export.html
 
 *.db*
 
+# environment
+.direnv
+.envrc
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
