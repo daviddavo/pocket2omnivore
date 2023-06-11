@@ -5,3 +5,4 @@ gql[all]
 jupyter_contrib_nbextensions
 httpx
 backoff
+peewee
